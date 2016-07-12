@@ -1,5 +1,5 @@
 {
-  "name": "genesisgateway/genesis_php",
+  "name": "muratsplat/genesis_php",
   "description": "PHP Client for Genesis Payment Processing Gateway",
   "version": "1.4.3",
   "license": "MIT",
